@@ -1,0 +1,5 @@
+{
+  "name": "LiquorStore OS",
+  "description": "A Monday.com-style retail management OS for liquor stores featuring department-based task boards, time-off requests, inventory reorders, and a GenAI manager assistant.",
+  "requestFramePermissions": []
+}
